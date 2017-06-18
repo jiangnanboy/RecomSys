@@ -2,7 +2,7 @@ package com.sy.zhihai.similarity;
 
 
 import com.sy.zhihai.base.User;
-import com.sy.zhihai.model.DataModel;
+import com.sy.zhihai.base.DataModel;
 
 /**
  * 修正的cosine相似计算类

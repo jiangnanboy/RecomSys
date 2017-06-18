@@ -1,7 +1,7 @@
 package com.sy.zhihai.similarity;
 
 import com.sy.zhihai.base.User;
-import com.sy.zhihai.model.DataModel;
+import com.sy.zhihai.base.DataModel;
 
 import java.util.Set;
 

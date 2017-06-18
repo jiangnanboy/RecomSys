@@ -1,12 +1,10 @@
 package com.sy.zhihai.main;
 
-
-
 import com.sy.zhihai.base.RecommendedItem;
 import com.sy.zhihai.base.SimilarityUser;
-import com.sy.zhihai.model.DataModel;
-import com.sy.zhihai.model.Neighborhood;
-import com.sy.zhihai.model.Recommender;
+import com.sy.zhihai.base.DataModel;
+import com.sy.zhihai.base.Neighborhood;
+import com.sy.zhihai.base.Recommender;
 import com.sy.zhihai.similarity.AbstractUserSimilarity;
 import com.sy.zhihai.similarity.PearsonSimilarity;
 
